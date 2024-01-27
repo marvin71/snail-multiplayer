@@ -1,4 +1,4 @@
-module github.com/q713/snail
+module github.com/marvin71/snail-multiplayer
 
 go 1.18
 
